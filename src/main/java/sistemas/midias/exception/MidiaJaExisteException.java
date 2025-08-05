@@ -1,4 +1,4 @@
-package sistemas.midias.midia.exception;
+package sistemas.midias.exception;
 
 public class MidiaJaExisteException extends Exception{
 
